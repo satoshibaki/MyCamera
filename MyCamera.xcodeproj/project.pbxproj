@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FD7E83B925FC720C00E89096 /* EffectViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD7E83B825FC720C00E89096 /* EffectViewController.swift */; };
 		FDBC8ECA25F89ED80019CCA1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDBC8EC925F89ED80019CCA1 /* AppDelegate.swift */; };
 		FDBC8ECC25F89ED80019CCA1 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDBC8ECB25F89ED80019CCA1 /* SceneDelegate.swift */; };
 		FDBC8ECE25F89ED80019CCA1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDBC8ECD25F89ED80019CCA1 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FD7E83B825FC720C00E89096 /* EffectViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EffectViewController.swift; sourceTree = "<group>"; };
 		FDBC8EC625F89ED80019CCA1 /* MyCamera.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyCamera.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FDBC8EC925F89ED80019CCA1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FDBC8ECB25F89ED80019CCA1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				FDBC8EC925F89ED80019CCA1 /* AppDelegate.swift */,
 				FDBC8ECB25F89ED80019CCA1 /* SceneDelegate.swift */,
 				FDBC8ECD25F89ED80019CCA1 /* ViewController.swift */,
+				FD7E83B825FC720C00E89096 /* EffectViewController.swift */,
 				FDBC8ECF25F89ED80019CCA1 /* Main.storyboard */,
 				FDBC8ED225F89ED90019CCA1 /* Assets.xcassets */,
 				FDBC8ED425F89ED90019CCA1 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FDBC8ECE25F89ED80019CCA1 /* ViewController.swift in Sources */,
+				FD7E83B925FC720C00E89096 /* EffectViewController.swift in Sources */,
 				FDBC8ECA25F89ED80019CCA1 /* AppDelegate.swift in Sources */,
 				FDBC8ECC25F89ED80019CCA1 /* SceneDelegate.swift in Sources */,
 			);
